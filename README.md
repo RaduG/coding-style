@@ -4,10 +4,10 @@ General and language specific coding style guide
 
 Inspired by:
 
-* PSR-1
-* PSR-2
-* PEP 8
-* Mozilla Coding Style
+* [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
+* [PSR-2](http://www.php-fig.org/psr/psr-2/)
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+* [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 
 ### General practices
 * Use 4 spaces for indenting, not tabs
