@@ -40,7 +40,6 @@ Inspired by:
 
 use Foo\MyInterface;
 
-
 class MyClass implements MyInterface
 {
     /**
